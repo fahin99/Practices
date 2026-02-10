@@ -1,0 +1,14 @@
+D:\OneDrive\Documents\c#\pracProj\bin\Debug\net9.0\pracProj.exe
+D:\OneDrive\Documents\c#\pracProj\bin\Debug\net9.0\pracProj.deps.json
+D:\OneDrive\Documents\c#\pracProj\bin\Debug\net9.0\pracProj.runtimeconfig.json
+D:\OneDrive\Documents\c#\pracProj\bin\Debug\net9.0\pracProj.dll
+D:\OneDrive\Documents\c#\pracProj\bin\Debug\net9.0\pracProj.pdb
+D:\OneDrive\Documents\c#\pracProj\obj\Debug\net9.0\pracProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\c#\pracProj\obj\Debug\net9.0\pracProj.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\c#\pracProj\obj\Debug\net9.0\pracProj.AssemblyInfo.cs
+D:\OneDrive\Documents\c#\pracProj\obj\Debug\net9.0\pracProj.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\c#\pracProj\obj\Debug\net9.0\pracProj.dll
+D:\OneDrive\Documents\c#\pracProj\obj\Debug\net9.0\refint\pracProj.dll
+D:\OneDrive\Documents\c#\pracProj\obj\Debug\net9.0\pracProj.pdb
+D:\OneDrive\Documents\c#\pracProj\obj\Debug\net9.0\pracProj.genruntimeconfig.cache
+D:\OneDrive\Documents\c#\pracProj\obj\Debug\net9.0\ref\pracProj.dll
