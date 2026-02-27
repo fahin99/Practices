@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Documents\\c#\\pracProj\\pracProj.csproj",
+      "projectUniqueName": "D:\\Documents\\Practices\\c#\\pracProj\\pracProj.csproj",
       "projectName": "pracProj",
-      "projectPath": "D:\\OneDrive\\Documents\\c#\\pracProj\\pracProj.csproj",
+      "projectPath": "D:\\Documents\\Practices\\c#\\pracProj\\pracProj.csproj",
       "packagesPath": "C:\\Users\\abirl\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Documents\\c#\\pracProj\\obj\\",
+      "outputPath": "D:\\Documents\\Practices\\c#\\pracProj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abirl\\AppData\\Roaming\\NuGet\\NuGet.Config"
