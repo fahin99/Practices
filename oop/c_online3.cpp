@@ -39,7 +39,7 @@ public:
     void Print() const
     {
         cout<<"[";
-        for (int i = 0; i < size-1; i++)
+        for (int i = 0;i < size-1; i++)
         {
             cout << arr[i] << ", ";
         }
